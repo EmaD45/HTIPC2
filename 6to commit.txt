@@ -1,0 +1,16 @@
+¿Qué entiende como "commit"?
+
+R// Commit es cuando se guardan los cambios que se hallan hecho en el repositorio, como modificar o agregar un archivo.
+
+¿Qué entiende como "merge"?
+
+R// Merge es unir o combinar lo que se tenia guardado en el archivo original con los nuevos cambios que se hicieron combinandolos.
+
+¿Cuál es la diferencia entre "Pull" y "Push"?
+
+R// Pull es solicitar que seleccionen o saquen de la rama de prueba alguna seccion de codigo para que sea considerada para ser agregada haciendo "merge" con el archivo original o el "master".
+Push es solicitar que se envie los cambios guardados o el commit hacia la pagina web.
+
+¿Cómo utilizar ramas ("branches") en la aplicación?
+
+R// las ramas se van creando conforme se quiera divir los posibles cambios a la version original o la master para evaluarlas de formas diferentes. Para crearla se hace click en la rama master, se escribe el nombre que se le quiera dar a la nueva rama que se creará y se presiona Enter para crearla.
